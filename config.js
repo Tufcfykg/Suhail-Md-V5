@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="ogbangoodluck07@gmail.com"
+global.email ="iamvictorade@gmail.com"
 global.location="Imo, Nigeria"
 
 
