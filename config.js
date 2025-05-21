@@ -1,4 +1,4 @@
-const fs = require('fs-extra')
+I'mconst fs = require('fs-extra')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "VICTORMD",
   packname: process.env.PACK_NAME || "VICTOR_MD",
   botname : process.env.BOT_NAME  || "𝔾𝕀𝕊𝕋𝕄𝔼𝔻𝕀𝔸_𝕄𝔻",
-  ownername:process.env.OWNER_NAME|| "𝔾𝕀𝕊𝕋𝕄𝔼𝔻𝕀𝔸",
+  ownername:process.env.OWNER_NAME|| "ITACHI",
 
 
   errorChat : process.env.ERROR_CHAT || "",
